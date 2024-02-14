@@ -1,0 +1,7 @@
+.App {
+  width: 100vw;
+  height: auto;
+  min-height: 100vh;
+  text-align: center;
+  backdrop-filter: brightness(70%) blur(3px);
+}

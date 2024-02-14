@@ -1,0 +1,12 @@
+.Header {
+    height: 10vh;
+    background-image: linear-gradient(black, rgba(0, 0, 0, 0.7));
+    color: white;
+    display: flex;
+    margin-bottom: 1rem;
+}
+
+.Header div {
+    margin: auto;
+    pointer-events: none;
+}
